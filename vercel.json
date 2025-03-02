@@ -1,0 +1,10 @@
+{
+    "rootDirectory": "tictactoe",
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/node"
+      }
+    ]
+  }
+  
