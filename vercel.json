@@ -1,5 +1,4 @@
 {
-    "rootDirectory": "tictactoe",
     "builds": [
       {
         "src": "package.json",
